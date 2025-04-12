@@ -81,11 +81,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\1.CodeProjects\\yamyrestaurant\\YummyGreekBackend\\YummyGreekBackend.csproj",
+      "projectUniqueName": "E:\\1.CodeProjects\\YammyRestaurant\\apiserver\\YummyGreekBackend\\YummyGreekBackend.csproj",
       "projectName": "YummyGreekBackend",
-      "projectPath": "E:\\1.CodeProjects\\yamyrestaurant\\YummyGreekBackend\\YummyGreekBackend.csproj",
+      "projectPath": "E:\\1.CodeProjects\\YammyRestaurant\\apiserver\\YummyGreekBackend\\YummyGreekBackend.csproj",
       "packagesPath": "C:\\Users\\Sonic\\.nuget\\packages\\",
-      "outputPath": "E:\\1.CodeProjects\\yamyrestaurant\\YummyGreekBackend\\obj\\",
+      "outputPath": "E:\\1.CodeProjects\\YammyRestaurant\\apiserver\\YummyGreekBackend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Programs\\VisualStudio_Files\\SharedFiles\\NuGetPackages"

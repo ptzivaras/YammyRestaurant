@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YummyGreekBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+057a95872a69b4b74aff4b10d5581d99d41f5e24")]
 [assembly: System.Reflection.AssemblyProductAttribute("YummyGreekBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YummyGreekBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
